@@ -16,20 +16,20 @@ In this ever-evolving digital age, Esports stands at the forefront of innovation
 This project aims to conduct an exploratory data analysis (EDA) of the Esports industry, focusing on earnings and game genres. The objective is to unveil insightful trends and findings, shedding light on the dynamic and rapidly growing world of competitive gaming. The dataset at hand comprises comprehensive data, rankings, and historical information on earnings in the Esports industry, making it a valuable resource. Nonetheless, it is essential to acknowledge that the reliance on reported data from the site might pose potential limitations concerning its absolute reliability. Despite this, the study holds significant potential in providing valuable insights into the financial aspects of Esports.
 
 These are some of the questions/insights that we are going to explore in this dataset,
-1. Total earnings in the last 10 years?
+**1. Total earnings in the last 10 years?
 2. Top 10 games earnings?
 3. Top 10 games earnings in the last 5 years?
 4. Top 10 games tournaments in the last 5 years?
 5. Total earnings by genre?
 6. Tournaments by genre?
-7. Earning by genre in the last 5 years?
+7. Earning by genre in the last 5 years?**
    
 ----------------------
 
 The dataset is scraped from EsportsEarnings.com which is available on 
 Kaggle(https://www.kaggle.com/datasets/rankirsh/esports-earnings) 
 
-The dataset contains two tables
+**The dataset contains two tables**
 
 1. "Games" - It contains information about games with 7 features
 
@@ -80,18 +80,18 @@ Ultimately, most of the games on this list were released from **2013** onwards, 
 
 ---------
 
-#### Top 10 games earnings in the last 5 years
+### Top 10 games earnings in the last 5 years
 
-![](media/Top 10 games earnings in the last 5 years 1.png)
-![](media/Top 10 games earnings in the last 5 years 2.png)
-![](media/Top 10 games earnings in the last 5 years 3.png)
-![](media/Top 10 games earnings in the last 5 years 4.png)
-![](media/Top 10 games earnings in the last 5 years 5.png)
-![](media/Top 10 games earnings in the last 5 years 6.png)
-![](media/Top 10 games earnings in the last 5 years 7.png)
-![](media/Top 10 games earnings in the last 5 years 8.png)
-![](media/Top 10 games earnings in the last 5 years 9.png)
-![](media/Top 10 games earnings in the last 5 years 10.png)
+![](media/1.png)
+![](media/2.png)
+![](media/3.png)
+![](media/4.png)
+![](media/5.png)
+![](media/6.png)
+![](media/7.png)
+![](media/8.png)
+![](media/9.png)
+![](media/10.png)
 
 The different plots show various trends:
 
@@ -108,9 +108,9 @@ The different plots show various trends:
 
 ----------------
 
-#### Top 10 games tournaments in the last 5 years
+### Top 10 games tournaments in the last 5 years
 
-![](media/Top 10 games tournaments in the last 5 years.png)
+![](media/Top_10_games_tournaments_in_the_last_5_years.png)
 
 From the bar plots we can learn the following trends:
 
@@ -127,9 +127,9 @@ These insights provide valuable information about the relationship between the n
 
 -----
 
-#### Total earnings by genre
+### Total earnings by genre
 
-![](media/Total earnings by genre.png)
+![](media/Total_earnings_by_genre.png)
 
 The genre earning the most in total is **MOBA (Multiplayer Online Battle Arena), with a total of $555M**. The top games in this genre include Dota 2, League of Legends, and Arena of Valor.
 
@@ -141,9 +141,9 @@ It is apparent that all of the top 10 games in terms of earnings belong to these
 
 -------------------
 
-#### Tournaments by genre
+### Tournaments by genre
 
-![](media/Tournaments by genre.png)
+![](media/Tournaments_by_genre.png)
 
 **FPS (First-Person Shooter) is the genre with the highest number of tournaments held**. This can be attributed to its status as an old and established genre, with games like Counter-Strike released back in 2000.
 
@@ -161,9 +161,9 @@ Surprisingly, **the Sports genre secures a spot in the top five**, implying a ge
 
 ------------------------
 
-#### Earning by genre in the last 5 years
+### Earning by genre in the last 5 years
 
-![](media/Earning by genre in the last 5 years.png)
+![](media/Earning_by_genre_in_the_last_5_years.png)
 
 From the bar plots we can learn the following insights:
 
