@@ -1,6 +1,10 @@
 # Dynamic Insights: Exploring Earnings & Game Genres in Esports (1998 - 2023) 🎮📈
 -------------
 
+![Screenshot](media/wp8238848-cs-esports-wallpapers.jpg)
+
+-----------
+
 In the rapidly evolving landscape of digital entertainment, a new phenomenon has emerged that has captured the attention and passion of millions worldwide: Esports. Short for "electronic sports," Esports refers to competitive video gaming, where skilled players or teams face off against each other in virtual arenas, competing for victory, glory, and significant monetary rewards. Unlike traditional sports, Esports leverages the power of cutting-edge technology and the internet to create a captivating and fast-paced competitive environment that transcends geographical boundaries.
 
 Over the past few decades, Esports has evolved from a niche hobby among gaming enthusiasts into a global cultural phenomenon with a massive following.
@@ -47,10 +51,12 @@ The dataset contains two tables
 
 ---------------
 
-### Exploratory Data Analysis
+## Exploratory Data Analysis
 In this section I will try to reveal some insights and trends in earnings, tournaments and popularity of games/genres in the eSports industry.
 
-#### Total earnings in the last 10 years?
+### Total earnings in the last 10 years?
+
+![](media/total_earnings_in_the_last_10_year.png)
 
 As we can see in the line plot, the total earnings of the industry were **growing every year, and in the year 2019, it reached a peak of $253M (11 times more than the year 2013!)**
 
@@ -58,7 +64,9 @@ We can also observe a decrease in the year **2020**, which can be attributed to 
 
 ------
 
-#### Top 10 games earnings
+### Top 10 games earnings
+
+![](media/top_10_games_earnings.png)
 
 The top-earning game is **Dota 2**, which was released in 2013, with total earnings of **$315M.**
 
@@ -73,6 +81,17 @@ Ultimately, most of the games on this list were released from **2013** onwards, 
 ---------
 
 #### Top 10 games earnings in the last 5 years
+
+![](media/Top 10 games earnings in the last 5 years 1.png)
+![](media/Top 10 games earnings in the last 5 years 2.png)
+![](media/Top 10 games earnings in the last 5 years 3.png)
+![](media/Top 10 games earnings in the last 5 years 4.png)
+![](media/Top 10 games earnings in the last 5 years 5.png)
+![](media/Top 10 games earnings in the last 5 years 6.png)
+![](media/Top 10 games earnings in the last 5 years 7.png)
+![](media/Top 10 games earnings in the last 5 years 8.png)
+![](media/Top 10 games earnings in the last 5 years 9.png)
+![](media/Top 10 games earnings in the last 5 years 10.png)
 
 The different plots show various trends:
 
@@ -91,6 +110,8 @@ The different plots show various trends:
 
 #### Top 10 games tournaments in the last 5 years
 
+![](media/Top 10 games tournaments in the last 5 years.png)
+
 From the bar plots we can learn the following trends:
 
 
@@ -108,6 +129,8 @@ These insights provide valuable information about the relationship between the n
 
 #### Total earnings by genre
 
+![](media/Total earnings by genre.png)
+
 The genre earning the most in total is **MOBA (Multiplayer Online Battle Arena), with a total of $555M**. The top games in this genre include Dota 2, League of Legends, and Arena of Valor.
 
 Following that, the **FPS (First-Person Shooter) genre ranks second with a total of $356M**. Popular games in this genre are Counter-Strike, Rainbow Six Siege, and Overwatch.
@@ -119,6 +142,8 @@ It is apparent that all of the top 10 games in terms of earnings belong to these
 -------------------
 
 #### Tournaments by genre
+
+![](media/Tournaments by genre.png)
 
 **FPS (First-Person Shooter) is the genre with the highest number of tournaments held**. This can be attributed to its status as an old and established genre, with games like Counter-Strike released back in 2000.
 
@@ -137,6 +162,8 @@ Surprisingly, **the Sports genre secures a spot in the top five**, implying a ge
 ------------------------
 
 #### Earning by genre in the last 5 years
+
+![](media/Earning by genre in the last 5 years.png)
 
 From the bar plots we can learn the following insights:
 
