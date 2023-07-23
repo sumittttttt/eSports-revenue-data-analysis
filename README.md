@@ -16,13 +16,14 @@ In this ever-evolving digital age, Esports stands at the forefront of innovation
 This project aims to conduct an exploratory data analysis (EDA) of the Esports industry, focusing on earnings and game genres. The objective is to unveil insightful trends and findings, shedding light on the dynamic and rapidly growing world of competitive gaming. The dataset at hand comprises comprehensive data, rankings, and historical information on earnings in the Esports industry, making it a valuable resource. Nonetheless, it is essential to acknowledge that the reliance on reported data from the site might pose potential limitations concerning its absolute reliability. Despite this, the study holds significant potential in providing valuable insights into the financial aspects of Esports.
 
 These are some of the questions/insights that we are going to explore in this dataset,
-**1. Total earnings in the last 10 years?
-2. Top 10 games earnings?
-3. Top 10 games earnings in the last 5 years?
-4. Top 10 games tournaments in the last 5 years?
-5. Total earnings by genre?
-6. Tournaments by genre?
-7. Earning by genre in the last 5 years?**
+
+**1. Total earnings in the last 10 years?**
+**2. Top 10 games earnings?**
+**3. Top 10 games earnings in the last 5 years?**
+**4. Top 10 games tournaments in the last 5 years?**
+**5. Total earnings by genre?**
+**6. Tournaments by genre?**
+**7. Earning by genre in the last 5 years?**
    
 ----------------------
 
