@@ -18,12 +18,19 @@ This project aims to conduct an exploratory data analysis (EDA) of the Esports i
 These are some of the questions/insights that we are going to explore in this dataset,
 
 **1. Total earnings in the last 10 years?**
+
 **2. Top 10 games earnings?**
+
 **3. Top 10 games earnings in the last 5 years?**
+
 **4. Top 10 games tournaments in the last 5 years?**
+
 **5. Total earnings by genre?**
+
 **6. Tournaments by genre?**
+
 **7. Earning by genre in the last 5 years?**
+
    
 ----------------------
 
